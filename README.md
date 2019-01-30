@@ -1,8 +1,11 @@
 # README POUR THE HACKING CLASS
 
+  J'ai laissé tombé l'idée de le modif, découragement, fatigue. T-T
+
+# Gems :
 Deux gems supplémentaires ont été installé : gem table_print et la gem faker
 
-## Projet de Nora Bourouis et Hamdi Nassri
+## Projet de Nora Bourouis et Hamdi Nassri(À la base)
 
 Cette base de données a été créé pour un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
 
