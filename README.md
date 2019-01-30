@@ -21,8 +21,9 @@ student = student.new
 student.lecture = lecture
 student.save
 
+### Autres infos
 
-Dans un fichier seeds.rb, on a généré automatiquement des éléments pour chaques models grâce à la gem faker.
+Dans un fichier seeds.rb, on a généré automatiquement des éléments pour chaques models grâce à la gem faker. Pour réaliser l'action de ce fichier il suffit de taper 'rails db:seed ' dans la console.
 
 Pour lire la database, tapez un "rails console" dans le terminal, puis checker les tables avec un 'tp NomDuModel.all'. 
 
