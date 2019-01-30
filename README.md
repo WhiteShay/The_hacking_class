@@ -8,7 +8,7 @@ Cette base de données a été créé pour un site d'éducation en ligne. Dans c
 
 Pour se faire, on a crée une base de donnée avec 2 modèles : celui d'un élève (Student), celui d'un cours (Lecture). La relation entre ces bases est de 1,n (one to many).
 
-# Description des models
+### Description des models
 
 Le modèle élève peut s'inscrire à un cours seulement, du coup il faut inclure la foreign key de Lecture dans la création de la table.
 
