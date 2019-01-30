@@ -1,4 +1,4 @@
-# README POUR THE HACKING PINTEREST
+# README POUR THE HACKING CLASS
 
 Deux gems supplémentaires ont été installé : gem table_print et la gem faker
 
